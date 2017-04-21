@@ -1,4 +1,4 @@
-# Comment m'améliorer au Go
+# Comment s'améliorer au Go
 
 C’est la question que tout le monde se pose, c’est un peu comme l’enquête sur la façon dont les gens seraient plus heureux si ils avaient le double de leur argent sur leurs comptes, qu’ils aient 200€ ou 2 millions.
 
