@@ -1,4 +1,4 @@
-# Comment s'améliorer au Go
+# Comment m'améliorer au Go
 
 C’est la question que tout le monde se pose, c’est un peu comme l’enquête sur la façon dont les gens seraient plus heureux si ils avaient le double de leur argent sur leurs comptes, qu’ils aient 200€ ou 2 millions.
 
@@ -75,7 +75,7 @@ Traditionnellement, l’aliment de base dans les cours des aspirants professione
 Le niveau de jeu des professionnels est élévée, et la plupart des mouvements sont difficiles à comprendre, même des joueurs amateur forts. Les commentaires détaillés peuvent aider, mais les joueurs plus faible vont plutôt suivre les formes et le rythme de la partie. Ne vous méprenez pas, c’est toujours utile, mais à mon avis, c’est plus utile de lire des livres sur le jeu de Go.
 | Occassionnelle | Sincère | Sérieuse |
 | -------------- | ------- | -------- |
-| Rejouez les parties de pro comme un divertissement. | Rejouez les parties de pro qui ont des analyses détaillées, et essayer de suivre les commentaires et la logique de la partie. Si vous jouez sur une partie qui n’a pas d’analyse, essayer de deviner ce que sera le prochaine coup. | En plus d’essayer de deviner le prochain coup, essayer de mémoriser la partie. Le meilleur moyen pour cela est de comprendre le sens de chaque mouvement.
+| Rejouez les parties de pro comme un divertissement. | Rejouez les parties de pro qui ont des analyses détaillées, et essayer de suivre les commentaires et la logique de la partie. Si vous jouez sur une partie qui n’a pas d’analyse, essayer de deviner ce que sera le prochaine coup. | En plus d’essayer de deviner le prochain coup, essayer de mémoriser la partie. Le meilleur moyen pour cela est de comprendre le sens de chaque mouvement. |
 ## L’attitude
 
 Je mets cette section en dernière, non pas parce que c’est la moins importante, mais parce qu’elle s’applique à tout ce qui précède. En un mot, il est essentiel d’essayer de jouer le mieux possible, à appliquer les choses que vous avez appris dans les livres. Certaines personnes semblent penser que si ils continuent de jouer, ils vont progresser naturellement. Maleheureusement, c’est vrai que dans une très faible mesure.
