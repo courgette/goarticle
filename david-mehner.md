@@ -73,6 +73,7 @@ Concernant les livres à étudier, je vous recommande fortement de vous passer d
 Traditionnellement, l’aliment de base dans les cours des aspirants professionel est d’étudier les parties des anciens maîtres et de suivre les principaux tournois pour analyser les progrès des théories d’ouverture. Donc si c’est bon pour les joueurs pro c’est également utile pour les joueurs amateurs. Mais à mon avis, pour les joueurs Dan, c’est probablement l’un des moyens les moins efficaces de passer votre temps d’étude.
 
 Le niveau de jeu des professionnels est élévée, et la plupart des mouvements sont difficiles à comprendre, même des joueurs amateur forts. Les commentaires détaillés peuvent aider, mais les joueurs plus faible vont plutôt suivre les formes et le rythme de la partie. Ne vous méprenez pas, c’est toujours utile, mais à mon avis, c’est plus utile de lire des livres sur le jeu de Go.
+
 | Occassionnelle | Sincère | Sérieuse |
 | -------------- | ------- | -------- |
 | Rejouez les parties de pro comme un divertissement. | Rejouez les parties de pro qui ont des analyses détaillées, et essayer de suivre les commentaires et la logique de la partie. Si vous jouez sur une partie qui n’a pas d’analyse, essayer de deviner ce que sera le prochaine coup. | En plus d’essayer de deviner le prochain coup, essayer de mémoriser la partie. Le meilleur moyen pour cela est de comprendre le sens de chaque mouvement. |
